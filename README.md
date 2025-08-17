@@ -1,5 +1,6 @@
 # inotify-info-rs
 
+This is a Rust port of the C++ [inotify-info](https://github.com/mikesart/inotify-info) tool.
 ```bash
 # Check for formatting issues.
 cargo fmt --all -- --check
